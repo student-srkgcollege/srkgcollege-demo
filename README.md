@@ -1,0 +1,2 @@
+# srkgcollege-demo
+this is my first repository.
