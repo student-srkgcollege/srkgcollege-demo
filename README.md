@@ -1,4 +1,5 @@
 # srkgcollege-demo
 this is my first Git repository. 
 <br>
-author - Anjali pandey
+author - Anjali (srkg college)
+
